@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="388893cf-6ca7-450d-99a4-589cf1175643" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/America_flag_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Biodata1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Divideoftwonumbers_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Printaface2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Programme_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Programme_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Programme_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Programme_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Programme_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Programme_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Programme_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Programme_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Programme_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Programme_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Programme_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Programme_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Progrmme_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Sumoftwonumbers_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Triangle_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Triangle_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 5.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <branch-grouping />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/homework/America_flag_6.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2Oq1ZjBa3pBYU1pdP1yUvV3d9bL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Biodata1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.Biodata1" />
+      <module name="week 5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Printaface2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.Printaface2" />
+      <module name="week 5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programme_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.Programme_3" />
+      <module name="week 5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Triangle_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.Triangle_4" />
+      <module name="week 5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Triangle_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.Triangle_5" />
+      <module name="week 5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Triangle_5" />
+        <item itemvalue="Application.Triangle_4" />
+        <item itemvalue="Application.Programme_3" />
+        <item itemvalue="Application.Printaface2" />
+        <item itemvalue="Application.Biodata1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="388893cf-6ca7-450d-99a4-589cf1175643" name="Changes" comment="" />
+      <created>1682194509531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682194509531</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

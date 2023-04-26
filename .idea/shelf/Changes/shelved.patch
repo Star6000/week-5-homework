@@ -1,0 +1,818 @@
+Index: src/homework/Programme_10.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/homework/Programme_10.java b/src/homework/Programme_10.java
+new file mode 100644
+--- /dev/null	(date 1682510837214)
++++ b/src/homework/Programme_10.java	(date 1682510837214)
+@@ -0,0 +1,9 @@
++package homework;
++
++public class Programme_10 {
++    public static void main(String[] args) {
++        int a = 25;
++        int b = 5;
++        System.out.println(a * b);
++    }
++}
+Index: src/homework/Programme_11.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/homework/Programme_11.java b/src/homework/Programme_11.java
+new file mode 100644
+--- /dev/null	(date 1682510528405)
++++ b/src/homework/Programme_11.java	(date 1682510528405)
+@@ -0,0 +1,26 @@
++package homework;
++
++public class Programme_11 {
++    public static void main(String[]args) {
++        int a = 8;
++        int b = 1;
++        int c = 2;
++        int d = 3;
++        int e = 4;
++        int f = 5;
++        int g = 6;
++        int h = 7;
++        int i = 9;
++        int j = 10;
++        System.out.println(a * b);
++        System.out.println(a * c);
++        System.out.println(a * d);
++        System.out.println(a * e);
++        System.out.println(a * f);
++        System.out.println(a * g);
++        System.out.println(a * h);
++        System.out.println(a * a);
++        System.out.println(a * i);
++        System.out.println(a * j);
++    }
++    }
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1682274270556)
++++ b/.idea/misc.xml	(date 1682274270556)
+@@ -0,0 +1,9 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="CodeInsightWorkspaceSettings">
++    <option name="optimizeImportsOnTheFly" value="true" />
++  </component>
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++</project>
+\ No newline at end of file
+Index: src/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Main.java b/src/Main.java
+new file mode 100644
+--- /dev/null	(date 1682273355524)
++++ b/src/Main.java	(date 1682273355524)
+@@ -0,0 +1,5 @@
++public class Main {
++    public static void main(String[] args) {
++        System.out.println("Hello world!");
++    }
++}
+\ No newline at end of file
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+--- /dev/null	(date 1682273355446)
++++ b/.gitignore	(date 1682273355446)
+@@ -0,0 +1,29 @@
++### IntelliJ IDEA ###
++out/
++!**/src/main/**/out/
++!**/src/test/**/out/
++
++### Eclipse ###
++.apt_generated
++.classpath
++.factorypath
++.project
++.settings
++.springBeans
++.sts4-cache
++bin/
++!**/src/main/**/bin/
++!**/src/test/**/bin/
++
++### NetBeans ###
++/nbproject/private/
++/nbbuild/
++/dist/
++/nbdist/
++/.nb-gradle/
++
++### VS Code ###
++.vscode/
++
++### Mac OS ###
++.DS_Store
+\ No newline at end of file
+Index: src/homework/Programme_3.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/homework/Programme_3.java b/src/homework/Programme_3.java
+new file mode 100644
+--- /dev/null	(date 1682286182994)
++++ b/src/homework/Programme_3.java	(date 1682286182994)
+@@ -0,0 +1,20 @@
++package homework;
++
++public class Programme_3 {
++    public static void main(String[] args) {
++        System.out.println();
++        System.out.println("           ******           *************       **********");
++        System.out.println("           **   **                **            **");
++        System.out.println("           **    **               **            **");
++        System.out.println("           **     **              **            **");
++        System.out.println("           **     **              **            ********");
++        System.out.println("           **     **       **     **            **");
++        System.out.println("           **     **         **    **            **");
++        System.out.println("           **    **           **  **             **");
++        System.out.println("            *****               ****            **********");
++        System.out.println();
++    }  // end main()
++
++}  // end class
++
++
+Index: src/homework/Triangle_4.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/homework/Triangle_4.java b/src/homework/Triangle_4.java
+new file mode 100644
+--- /dev/null	(date 1682288423177)
++++ b/src/homework/Triangle_4.java	(date 1682288423177)
+@@ -0,0 +1,16 @@
++package homework;
++
++public class Triangle_4 {
++    public static void main(String[]args)
++    {
++        System.out.println();
++                System.out.println(" * ");
++                System.out.println(" ** ");
++                System.out.println(" *** ");
++                System.out.println(" **** ");
++                System.out.println(" *****");
++                System.out.println(" ****** ");
++
++    }
++
++}
+Index: .idea/.name
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.name b/.idea/.name
+new file mode 100644
+--- /dev/null	(date 1682285074481)
++++ b/.idea/.name	(date 1682285074481)
+@@ -0,0 +1,1 @@
++Main.java
+\ No newline at end of file
+Index: src/homework/America_flag_6.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/homework/America_flag_6.java b/src/homework/America_flag_6.java
+new file mode 100644
+--- /dev/null	(date 1682291574527)
++++ b/src/homework/America_flag_6.java	(date 1682291574527)
+@@ -0,0 +1,23 @@
++package homework;
++
++public class America_flag_6 {
++    public static void main(String[] args)
++    {
++        System.out.println();
++        System.out.println("* * * * * * ====================================");
++        System.out.println("* * * * * ======================================");
++        System.out.println("* * * * * * =====================================");
++        System.out.println("* * * * * =======================================");
++        System.out.println("* * * * * * =====================================");
++        System.out.println("* * * * * ======================================");
++        System.out.println("* * * * * * =====================================");
++        System.out.println("* * * * * =======================================");
++        System.out.println("* * * * * * =====================================");
++        System.out.println("=================================================");
++        System.out.println("================================================");
++        System.out.println("================================================");
++        System.out.println("================================================");
++        System.out.println("=================================================");
++        System.out.println("==================================================");
++    }
++}
+Index: src/homework/Triangle_5.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/homework/Triangle_5.java b/src/homework/Triangle_5.java
+new file mode 100644
+--- /dev/null	(date 1682288734229)
++++ b/src/homework/Triangle_5.java	(date 1682288734229)
+@@ -0,0 +1,12 @@
++package homework;
++
++public class Triangle_5 {
++    public static void main(String[] args) {
++        System.out.println("     * ");
++        System.out.println("    * * ");
++        System.out.println("   * * * ");
++        System.out.println("  * * * * ");
++        System.out.println(" * * * * * ");
++        System.out.println("* * * * * * ");
++    }
++}
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+new file mode 100644
+--- /dev/null	(date 1682273376539)
++++ b/.idea/modules.xml	(date 1682273376539)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/week 5.iml" filepath="$PROJECT_DIR$/week 5.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: week 5.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/week 5.iml b/week 5.iml
+new file mode 100644
+--- /dev/null	(date 1682273376485)
++++ b/week 5.iml	(date 1682273376485)
+@@ -0,0 +1,11 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$">
++      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1682273377220)
++++ b/.idea/.gitignore	(date 1682273377220)
+@@ -0,0 +1,3 @@
++# Default ignored files
++/shelf/
++/workspace.xml
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1682273376760)
++++ b/.idea/vcs.xml	(date 1682273376760)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: src/homework/Sumoftwonumbers_7.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/homework/Sumoftwonumbers_7.java b/src/homework/Sumoftwonumbers_7.java
+new file mode 100644
+--- /dev/null	(date 1682380108266)
++++ b/src/homework/Sumoftwonumbers_7.java	(date 1682380108266)
+@@ -0,0 +1,12 @@
++package homework;
++
++public class Sumoftwonumbers_7 {
++    public static void main(String[] args) {
++        int a = 74;
++        int b = 36;
++        int c = a + b;
++        System.out.println(c);
++
++
++    }
++}
+Index: src/homework/Programme_9.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/homework/Programme_9.java b/src/homework/Programme_9.java
+new file mode 100644
+--- /dev/null	(date 1682507713559)
++++ b/src/homework/Programme_9.java	(date 1682507713559)
+@@ -0,0 +1,18 @@
++package homework;
++
++public class Programme_9 {public static void main(String[] args)
++{
++        int a = -5 + 8 * 6;
++        int b = (55+9) % 9;
++        int c = 20 +(-3*5)/8;
++        int d = 5 + 15 / 3 * 2 - 8 % 3;
++
++        System.out.println(a);
++        System.out.println(b);
++        System.out.println(c);
++        System.out.println(d);
++
++    }
++}
++
++
+Index: src/homework/Biodata1.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/homework/Biodata1.java b/src/homework/Biodata1.java
+new file mode 100644
+--- /dev/null	(date 1682275759366)
++++ b/src/homework/Biodata1.java	(date 1682275759366)
+@@ -0,0 +1,15 @@
++package homework;
++
++public class Biodata1 {
++    public static void main(String[] args) {
++
++                System.out.println("Name: Nisha Shah");
++                System.out.println("Father's Name: Rajesh Shah");
++                System.out.println("Date of birth: 3/12/2002");
++                System.out.println("Blood Group: AB+");
++                System.out.println("Aadhar Card No.: 4321 8756 9108");
++                System.out.println("State: Gujarat");
++            }
++        }
++
++
+Index: src/homework/Divideoftwonumbers_8.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/homework/Divideoftwonumbers_8.java b/src/homework/Divideoftwonumbers_8.java
+new file mode 100644
+--- /dev/null	(date 1682507713477)
++++ b/src/homework/Divideoftwonumbers_8.java	(date 1682507713477)
+@@ -0,0 +1,18 @@
++package homework;
++
++public class Divideoftwonumbers_8 {
++    public static void main(String[] args) {
++        int a = 50;
++        int b = 3;
++        int c= a / b;
++        System.out.println(c);
++
++
++
++
++
++
++
++
++    }
++}
+Index: src/homework/Programme_13.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/homework/Programme_13.java b/src/homework/Programme_13.java
+new file mode 100644
+--- /dev/null	(date 1682508245198)
++++ b/src/homework/Programme_13.java	(date 1682508245198)
+@@ -0,0 +1,15 @@
++package homework;
++
++public class Programme_13 {
++
++        public static void main(String[] args) {
++            System.out.println("\nJava Version: "+System.getProperty("java.version"));
++            System.out.println("Java Runtime Version: "+System.getProperty("java.runtime.version"));
++            System.out.println("Java Home: "+System.getProperty("java.home"));
++            System.out.println("Java Vendor: "+System.getProperty("java.vendor"));
++            System.out.println("Java Vendor URL: "+System.getProperty("java.vendor.url"));
++            System.out.println("Java Class Path: "+System.getProperty("java.class.path")+"\n");
++        }
++    }
++
++
+Index: src/homework/Programme_12.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/homework/Programme_12.java b/src/homework/Programme_12.java
+new file mode 100644
+--- /dev/null	(date 1682507853242)
++++ b/src/homework/Programme_12.java	(date 1682507853242)
+@@ -0,0 +1,12 @@
++package homework;
++
++public class Programme_12 {
++
++        public static void main(String[] args) {
++            System.out.println("   J    a   v     v  a ");
++            System.out.println("   J   a a   v   v  a a");
++            System.out.println("J  J  aaaaa   V V  aaaaa");
++            System.out.println(" JJ  a     a   V  a     a");
++        }
++    }
++
+Index: .idea/uiDesigner.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/uiDesigner.xml b/.idea/uiDesigner.xml
+new file mode 100644
+--- /dev/null	(date 1682275759768)
++++ b/.idea/uiDesigner.xml	(date 1682275759768)
+@@ -0,0 +1,124 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Palette2">
++    <group name="Swing">
++      <item class="com.intellij.uiDesigner.HSpacer" tooltip-text="Horizontal Spacer" icon="/com/intellij/uiDesigner/icons/hspacer.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="1" hsize-policy="6" anchor="0" fill="1" />
++      </item>
++      <item class="com.intellij.uiDesigner.VSpacer" tooltip-text="Vertical Spacer" icon="/com/intellij/uiDesigner/icons/vspacer.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="1" anchor="0" fill="2" />
++      </item>
++      <item class="javax.swing.JPanel" icon="/com/intellij/uiDesigner/icons/panel.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3" />
++      </item>
++      <item class="javax.swing.JScrollPane" icon="/com/intellij/uiDesigner/icons/scrollPane.svg" removable="false" auto-create-binding="false" can-attach-label="true">
++        <default-constraints vsize-policy="7" hsize-policy="7" anchor="0" fill="3" />
++      </item>
++      <item class="javax.swing.JButton" icon="/com/intellij/uiDesigner/icons/button.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="3" anchor="0" fill="1" />
++        <initial-values>
++          <property name="text" value="Button" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JRadioButton" icon="/com/intellij/uiDesigner/icons/radioButton.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
++        <initial-values>
++          <property name="text" value="RadioButton" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JCheckBox" icon="/com/intellij/uiDesigner/icons/checkBox.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
++        <initial-values>
++          <property name="text" value="CheckBox" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JLabel" icon="/com/intellij/uiDesigner/icons/label.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="0" anchor="8" fill="0" />
++        <initial-values>
++          <property name="text" value="Label" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JTextField" icon="/com/intellij/uiDesigner/icons/textField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
++          <preferred-size width="150" height="-1" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JPasswordField" icon="/com/intellij/uiDesigner/icons/passwordField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
++          <preferred-size width="150" height="-1" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JFormattedTextField" icon="/com/intellij/uiDesigner/icons/formattedTextField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
++          <preferred-size width="150" height="-1" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTextArea" icon="/com/intellij/uiDesigner/icons/textArea.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTextPane" icon="/com/intellij/uiDesigner/icons/textPane.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JEditorPane" icon="/com/intellij/uiDesigner/icons/editorPane.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JComboBox" icon="/com/intellij/uiDesigner/icons/comboBox.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="2" anchor="8" fill="1" />
++      </item>
++      <item class="javax.swing.JTable" icon="/com/intellij/uiDesigner/icons/table.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JList" icon="/com/intellij/uiDesigner/icons/list.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="2" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTree" icon="/com/intellij/uiDesigner/icons/tree.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTabbedPane" icon="/com/intellij/uiDesigner/icons/tabbedPane.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
++          <preferred-size width="200" height="200" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JSplitPane" icon="/com/intellij/uiDesigner/icons/splitPane.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
++          <preferred-size width="200" height="200" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JSpinner" icon="/com/intellij/uiDesigner/icons/spinner.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
++      </item>
++      <item class="javax.swing.JSlider" icon="/com/intellij/uiDesigner/icons/slider.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
++      </item>
++      <item class="javax.swing.JSeparator" icon="/com/intellij/uiDesigner/icons/separator.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3" />
++      </item>
++      <item class="javax.swing.JProgressBar" icon="/com/intellij/uiDesigner/icons/progressbar.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1" />
++      </item>
++      <item class="javax.swing.JToolBar" icon="/com/intellij/uiDesigner/icons/toolbar.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1">
++          <preferred-size width="-1" height="20" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JToolBar$Separator" icon="/com/intellij/uiDesigner/icons/toolbarSeparator.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="0" anchor="0" fill="1" />
++      </item>
++      <item class="javax.swing.JScrollBar" icon="/com/intellij/uiDesigner/icons/scrollbar.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="0" anchor="0" fill="2" />
++      </item>
++    </group>
++  </component>
++</project>
+\ No newline at end of file
+Index: src/homework/Programme_14.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/homework/Programme_14.java b/src/homework/Programme_14.java
+new file mode 100644
+--- /dev/null	(date 1682508372440)
++++ b/src/homework/Programme_14.java	(date 1682508372440)
+@@ -0,0 +1,14 @@
++package homework;
++
++public class Programme_14 {
++    public static void main(String[] args) {
++        boolean a = 25 != 39;
++        boolean b = 25 < 39;
++        boolean c = 25 <= 39;
++        System.out.println(a);
++        System.out.println(b);
++        System.out.println(c);
++
++    }
++}
++
+Index: src/homework/Programme_15.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/homework/Programme_15.java b/src/homework/Programme_15.java
+new file mode 100644
+--- /dev/null	(date 1682508743738)
++++ b/src/homework/Programme_15.java	(date 1682508743738)
+@@ -0,0 +1,14 @@
++package homework;
++
++public class Programme_15 {
++    public static void main(String[] args) {
++
++        String a = "Aa kiu, I swd skieo ";
++        int b = 236587;
++        String c = ". GH kiu: sieo??";
++        double d = 25.33;
++
++        System.out.println(a+b+c+d);
++    }
++}
++
+Index: src/homework/Printaface2.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/homework/Printaface2.java b/src/homework/Printaface2.java
+new file mode 100644
+--- /dev/null	(date 1682284883599)
++++ b/src/homework/Printaface2.java	(date 1682284883599)
+@@ -0,0 +1,14 @@
++package homework;
++
++public class Printaface2 {
++
++    public static void main(String[] args)
++        {
++            System.out.println(" +\"\"\"\"\"+ ");
++            System.out.println("[| o o |]");
++            System.out.println(" |  ^  | ");
++            System.out.println(" | '-' | ");
++            System.out.println(" +-----+ ");
++        }
++    }
++
+Index: src/homework/Progrmme_17.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/homework/Progrmme_17.java b/src/homework/Progrmme_17.java
+new file mode 100644
+--- /dev/null	(date 1682509021416)
++++ b/src/homework/Progrmme_17.java	(date 1682509021416)
+@@ -0,0 +1,12 @@
++package homework;
++public class Progrmme_17 {
++    public static void main(String[] args) {
++        System.out.println("\nTwinkle, twinkle, little star, " +
++                "\n\tHow I wonder what you are! " +
++                "\n\t\tUp above the world so high, " +
++                "\n\t\tLike a diamond in the sky. " +
++                "\nTwinkle, twinkle, little star, " +
++                "\n\tHow I wonder what you are!\n\n");
++    }
++}
++
+Index: src/homework/Programme_16.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/homework/Programme_16.java b/src/homework/Programme_16.java
+new file mode 100644
+--- /dev/null	(date 1682509598829)
++++ b/src/homework/Programme_16.java	(date 1682509598829)
+@@ -0,0 +1,10 @@
++package homework;
++
++public class Programme_16 {
++    public static void main(String[] args) {
++        double input = ((25.5 * 3.5 - 3.5 * 3.5) / (40.5 - 4.5));
++        System.out.println(input);
++    }
++}
++
++
+Index: src/homework/Programme_20.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/homework/Programme_20.java b/src/homework/Programme_20.java
+new file mode 100644
+--- /dev/null	(date 1682509476843)
++++ b/src/homework/Programme_20.java	(date 1682509476843)
+@@ -0,0 +1,13 @@
++package homework;
++
++public class Programme_20 {
++    public static void main(String[] args) {
++        int a = 10;
++        double b  = 6.2;
++
++        double sum = a+b;
++        System.out.println("Sum: "+sum);
++    }
++}
++
++
+Index: src/homework/Programme_19.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/homework/Programme_19.java b/src/homework/Programme_19.java
+new file mode 100644
+--- /dev/null	(date 1682510056541)
++++ b/src/homework/Programme_19.java	(date 1682510056541)
+@@ -0,0 +1,15 @@
++package homework;
++
++public class Programme_19 {
++    public static void main(String[] args) {
++        int a= 10;
++        char c = 67;
++        double d = 343.32;
++
++
++        System.out.println("int: "+a);
++        System.out.println("char: "+c);
++        System.out.println("double: "+d);
++    }
++}
++
+Index: src/homework/Programme_18.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/homework/Programme_18.java b/src/homework/Programme_18.java
+new file mode 100644
+--- /dev/null	(date 1682509948741)
++++ b/src/homework/Programme_18.java	(date 1682509948741)
+@@ -0,0 +1,35 @@
++package homework;
++
++public class Programme_18 {
++    public static void main(String[] args) {
++
++        int StudnetID = 14;
++        String course_name = "Computer Science";
++        int Programming_language_theory = 85;
++        int Computer_graphics  = 89;
++        int Human_computer_interaction = 80;
++        int Artificial_intelligence = 92;
++        int Algorithms_and_data_structures = 97;
++        int total_marks = Programming_language_theory + Computer_graphics + Human_computer_interaction + Artificial_intelligence + Algorithms_and_data_structures;
++
++        System.out.println("Mark Sheet (2022-23) ");
++        System.out.println("Course name: "+course_name);
++        System.out.println("Name       : Hemi Shah");
++        System.out.println("StudentID  : "+StudnetID);
++        System.out.println("         ");
++
++        System.out.println("Subject with Marks");
++        System.out.println("----------------------------------------------------------------------");
++        System.out.println("1. Programming language theory:    "+Programming_language_theory);
++        System.out.println("2. Computer graphics:              "+Computer_graphics);
++        System.out.println("3. Human-computer interaction:     "+Human_computer_interaction);
++        System.out.println("4. Artificial_ntelligence:         "+Artificial_intelligence);
++        System.out.println("5. Algorithms_and_data_structures: "+Algorithms_and_data_structures);
++
++        System.out.println("-----------------------------------------------------------------------");
++        System.out.println("Total Marks:                       "+total_marks);
++        System.out.println("Percentage:                        "+((total_marks/5)*100)/100);
++        System.out.println("Result:                            Pass");
++    }
++}
++
