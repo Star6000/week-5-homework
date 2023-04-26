@@ -4,37 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="388893cf-6ca7-450d-99a4-589cf1175643" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/America_flag_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Biodata1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Divideoftwonumbers_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Printaface2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Programme_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Programme_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Programme_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Programme_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Programme_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Programme_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Programme_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Programme_18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Programme_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Programme_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Programme_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Programme_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Progrmme_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Sumoftwonumbers_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Triangle_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Triangle_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5.iml" afterDir="false" />
-    </list>
+    <list default="true" id="388893cf-6ca7-450d-99a4-589cf1175643" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
